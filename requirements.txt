@@ -1,4 +1,0 @@
-streamlit
-pandas
-wrds
-sqlalchemy
