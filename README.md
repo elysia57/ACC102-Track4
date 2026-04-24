@@ -1,36 +1,41 @@
-# ACC102 Track 4: Interactive Financial Dashboard
-# Apple vs Microsoft (2020–2024)
+# ACC102 Track 4: Interactive Financial Analysis Tool
+## Apple vs Microsoft (2020–2024)
 
-## Purpose
-This interactive data product supports comparative financial analysis of Apple and Microsoft 
-for educational use in business and accounting contexts.
+## 1. Problem & User
+This tool supports comparative financial analysis between Apple (AAPL) and Microsoft (MSFT). The target users are finance students, accounting learners, and junior analysts who need clear, interactive financial performance comparison.
 
-## Target Users
-Finance students, accounting learners, and entry-level analysts.
+## 2. Data
+Source: Public annual financial reports
+Access date: 2026-04-24
+Period: 2020–2024
+Companies: Apple Inc., Microsoft Corporation
+Variables: revenue, net income, total equity, ROE, profit margin
 
-## Data Source
-Public annual financial reports, 2020–2024.
-No external database or WRDS access required.
+## 3. Methods
+- Data preparation and ratio calculation using pandas
+- Interactive user interface and visualization using Streamlit
+- User-driven filtering for company, year range, and financial metrics
 
-## Interactive Functions
-- Company selection
-- Year range adjustment
-- Financial metric selection
-- Chart type switching
-- Real-time data filtering
-- Data export in CSV format
-- Automatic summary generation
+## 4. Key Findings
+- Microsoft consistently achieved higher ROE than Apple during 2020–2024.
+- Both companies maintained stable and healthy profit margins.
+- Revenue and net income for both firms showed overall growth over the period.
 
-## Key Financial Metrics
-- Return on Equity (ROE)
-- Profit Margin
-- Revenue
-- Net Income
+## 5. How to Run
+- No local installation required; access directly via the Streamlit link.
+- Use the sidebar to select companies, adjust year range, and choose metrics.
+- View filtered data and charts in real time.
+- Download filtered data as a CSV file.
 
-## Application Link
-[Insert Streamlit URL here]
+## 6. Product Link
+[PASTE YOUR STREAMLIT APP LINK HERE]
 
-## Limitations
-- Annual data only
-- Simplified for educational demonstration
-- No industry benchmarking included
+## 7. Limitations & Next Steps
+Limitations:
+- Uses annual data only
+- Limited to two companies and basic financial ratios
+
+Improvements:
+- Add quarterly data
+- Include industry benchmark comparisons
+- Expand coverage to more companies
