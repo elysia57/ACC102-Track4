@@ -17,7 +17,7 @@ Variables: revenue, net income, total equity, ROE, profit margin
 - User-driven filtering for company, year range, and financial metrics
 
 ## 4. Key Findings
-- Microsoft consistently achieved higher ROE than Apple during 2020–2024.
+- Apple consistently achieved higher ROE than Microsoft during 2020–2024.
 - Both companies maintained stable and healthy profit margins.
 - Revenue and net income for both firms showed overall growth over the period.
 
@@ -28,7 +28,7 @@ Variables: revenue, net income, total equity, ROE, profit margin
 - Download filtered data as a CSV file.
 
 ## 6. Product Link
-[PASTE YOUR STREAMLIT APP LINK HERE]
+【acc102】 https://www.bilibili.com/video/BV1drojBUE5c/?share_source=copy_web&vd_source=d319b9f0793fab43d56c39f7b8a1ddac
 
 ## 7. Limitations & Next Steps
 Limitations:
